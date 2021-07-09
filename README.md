@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer" width="1500" height="500"></a>
+<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer" width="854" height="284.667"></a>
 
 
 - ❤️ I love analyzing and visualizing data
