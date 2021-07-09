@@ -1,6 +1,8 @@
 ### Hi there 👋
 <a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer"></a>
+<!--
 ![20210416_205530](https://user-images.githubusercontent.com/86346590/125128629-eef4b500-e106-11eb-8e81-e54780a40992.png)
+-->
 
 <!--
 **LeDuble/LeDuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
