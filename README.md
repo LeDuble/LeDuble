@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer"></a>
 ![20210416_205530](https://user-images.githubusercontent.com/86346590/125128629-eef4b500-e106-11eb-8e81-e54780a40992.png)
 
 <!--
@@ -7,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- ❤️ I love analyzing data and visualizing them
+- ❤️ I love analyzing and visualizing data
 - ✍️ Currently learning django (and loving it!)
 - 🎶 Listening improvised jazz or electronic music while coding
 - 🏋️ Training sports (running and bouldering) to unwind and relax
