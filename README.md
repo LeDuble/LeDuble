@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer"></a>
+<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info.png" title="Raja Web Developer" width="1500" height="500"></a>
+
 
 - ❤️ I love analyzing and visualizing data
 - ✍️ Currently learning django (and loving it!)
