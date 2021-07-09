@@ -1,4 +1,4 @@
-<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info2.png" title="Raja Web Developer" width="812" height="250"></a>
+<a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info2.png" title="Raja Web Developer" width="854" height="284.667"></a>
 
 
 - ❤️ I love analyzing and visualizing data
