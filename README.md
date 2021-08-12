@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeDuble&count_private=true&show_icons=true&theme=maroongold" title="Statistics">
 </div>
+
 - ❤️ I love analyzing and visualizing data
 - ✍️ Currently learning django (and loving it!)
 - 🎶 Listening improvised jazz / electronic while coding
