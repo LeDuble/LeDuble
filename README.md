@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  
 - ❤️ I love analyzing and visualizing data
 - ✍️ Currently learning django (and loving it!)
 - 🎶 Listening improvised jazz / electronic while coding
