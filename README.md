@@ -1,5 +1,6 @@
+<div align="center">
 <a href="https://github.com/leduble" title="Github about page"><img src="https://github.com/LeDuble/LeDuble/blob/main/github_bg_info2.png" title="Raja Web Developer" width="854" height="284.667"></a>
-
+</div>
 
 - ❤️ I love analyzing and visualizing data
 - ✍️ Currently learning django (and loving it!)
