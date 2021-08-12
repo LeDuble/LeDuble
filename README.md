@@ -12,5 +12,5 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeDuble&count_private=false&show_icons=true&theme=maroongold" title="Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=LeDuble&count_private=true&show_icons=true&theme=maroongold" title="Statistics">
 </div>
