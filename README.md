@@ -13,5 +13,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeDuble&count_private=true&show_icons=true&theme=maroongold" title="Statistics">
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeDuble&label=VISITORS&countColor=%23f47373&style=flat)
 </div>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeDuble&label=VISITORS&countColor=%23f47373&style=flat)
